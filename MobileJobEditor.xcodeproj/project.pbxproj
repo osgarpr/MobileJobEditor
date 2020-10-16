@@ -16,6 +16,7 @@
 		2DAB263E25390E2D00A4AEBC /* Customers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB263D25390E2D00A4AEBC /* Customers.swift */; };
 		2DAB264625390F5500A4AEBC /* CustomerService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB264525390F5500A4AEBC /* CustomerService.swift */; };
 		2DAB264A2539101000A4AEBC /* CustomerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB26492539101000A4AEBC /* CustomerModel.swift */; };
+		2DAB26552539A8C100A4AEBC /* CustomerDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB26542539A8C100A4AEBC /* CustomerDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		2DAB263D25390E2D00A4AEBC /* Customers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customers.swift; sourceTree = "<group>"; };
 		2DAB264525390F5500A4AEBC /* CustomerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerService.swift; sourceTree = "<group>"; };
 		2DAB26492539101000A4AEBC /* CustomerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerModel.swift; sourceTree = "<group>"; };
+		2DAB26542539A8C100A4AEBC /* CustomerDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				2DAB262825390D7500A4AEBC /* AppDelegate.swift */,
 				2DAB262A25390D7500A4AEBC /* SceneDelegate.swift */,
 				2DAB262C25390D7500A4AEBC /* ViewController.swift */,
+				2DAB26542539A8C100A4AEBC /* CustomerDetailViewController.swift */,
 				2DAB26492539101000A4AEBC /* CustomerModel.swift */,
 				2DAB263D25390E2D00A4AEBC /* Customers.swift */,
 				2DAB264525390F5500A4AEBC /* CustomerService.swift */,
@@ -152,6 +155,7 @@
 				2DAB264625390F5500A4AEBC /* CustomerService.swift in Sources */,
 				2DAB262B25390D7500A4AEBC /* SceneDelegate.swift in Sources */,
 				2DAB263E25390E2D00A4AEBC /* Customers.swift in Sources */,
+				2DAB26552539A8C100A4AEBC /* CustomerDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
