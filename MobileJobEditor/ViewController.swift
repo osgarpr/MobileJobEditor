@@ -25,7 +25,7 @@ extension ViewController: CustomerModelProtocol {
     //MARK: - ARTICLE MODEL PROTOCOL METHODS
     
     func customersRetrieved(_ customer: [Customers]) {
-        print("Customer Returned from Model")
+        print("Customer Return from Model")
     }
 
 }
